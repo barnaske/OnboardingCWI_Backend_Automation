@@ -32,7 +32,7 @@ Cenário: Cadastro de funcionário com sucesso
 	E que o usuário esteja autenticado
 	E que seja solicitado a criação de um novo funcionário
 	Então o funcionário será cadastrado
-	E o registro estará disponível na tabele 'Employee' da base de dados
+	E o registro estará disponível na tabela 'Employee' da base de dados
 	| Id | Name            | Email                      | Active | 
 	| 1  | 'Funcionario 1' | 'funcionario1@empresa.com' | true   | 
 

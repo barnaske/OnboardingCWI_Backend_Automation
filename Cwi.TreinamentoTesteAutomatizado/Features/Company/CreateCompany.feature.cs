@@ -119,7 +119,7 @@ this.ScenarioInitialize(scenarioInfo);
                             "5",
                             "true"});
 #line 15
- testRunner.And("o registro estará disponível na tabele \'Company\' da base de dados", ((string)(null)), table1, "E ");
+ testRunner.And("o registro estará disponível na tabela \'Company\' da base de dados", ((string)(null)), table1, "E ");
 #line hidden
             }
             this.ScenarioCleanup();

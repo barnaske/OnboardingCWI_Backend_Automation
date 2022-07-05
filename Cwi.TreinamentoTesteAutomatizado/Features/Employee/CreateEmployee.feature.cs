@@ -196,7 +196,7 @@ this.ScenarioInitialize(scenarioInfo);
                             "\'funcionario1@empresa.com\'",
                             "true"});
 #line 35
- testRunner.And("o registro estará disponível na tabele \'Employee\' da base de dados", ((string)(null)), table2, "E ");
+ testRunner.And("o registro estará disponível na tabela \'Employee\' da base de dados", ((string)(null)), table2, "E ");
 #line hidden
             }
             this.ScenarioCleanup();

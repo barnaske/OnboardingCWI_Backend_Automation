@@ -20,23 +20,22 @@ namespace Cwi.TreinamentoTesteAutomatizado.Features.Employee
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "3.9.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [NUnit.Framework.TestFixtureAttribute()]
-    [NUnit.Framework.DescriptionAttribute("Criar funcionários com steps genéricos")]
-    public partial class CriarFuncionariosComStepsGenericosFeature
+    [NUnit.Framework.DescriptionAttribute("Desafio")]
+    public partial class DesafioFeature
     {
         
         private TechTalk.SpecFlow.ITestRunner testRunner;
         
         private static string[] featureTags = ((string[])(null));
         
-#line 1 "CreateEmployeeV2.feature"
+#line 1 "DesafioFeature.feature"
 #line hidden
         
         [NUnit.Framework.OneTimeSetUpAttribute()]
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("pt-BR"), "Features/Employee", "Criar funcionários com steps genéricos", "\tSendo um usuário com as devidas permissões\r\n\tQuero poder cadastrar um novo funci" +
-                    "onário", ProgrammingLanguage.CSharp, featureTags);
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("pt-BR"), "Features/Employee", "Desafio", null, ProgrammingLanguage.CSharp, featureTags);
             testRunner.OnFeatureStart(featureInfo);
         }
         
@@ -75,15 +74,18 @@ namespace Cwi.TreinamentoTesteAutomatizado.Features.Employee
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Criação de funcionário com sucesso")]
-        [NUnit.Framework.TestCaseAttribute("Funcionário 1", null)]
-        public void CriacaoDeFuncionarioComSucesso(string name, string[] exampleTags)
+        [NUnit.Framework.DescriptionAttribute("DESAFIO usando EXEMPLOS - Criação de funcionários com sucesso e validação da list" +
+            "agem dos mesmo")]
+        [NUnit.Framework.TestCaseAttribute("Funcionário 1", "funcionario1@empresa.com", null)]
+        public void DESAFIOUsandoEXEMPLOS_CriacaoDeFuncionariosComSucessoEValidacaoDaListagemDosMesmo(string name, string email, string[] exampleTags)
         {
             string[] tagsOfScenario = exampleTags;
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             argumentsOfScenario.Add("Name", name);
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Criação de funcionário com sucesso", null, tagsOfScenario, argumentsOfScenario, featureTags);
-#line 5
+            argumentsOfScenario.Add("Email", email);
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("DESAFIO usando EXEMPLOS - Criação de funcionários com sucesso e validação da list" +
+                    "agem dos mesmo", null, tagsOfScenario, argumentsOfScenario, featureTags);
+#line 3
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
             if ((TagHelper.ContainsIgnoreTag(tagsOfScenario) || TagHelper.ContainsIgnoreTag(featureTags)))
@@ -93,31 +95,23 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-#line 6
+#line 4
  testRunner.Given("que a base de dados esteja limpa", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dado ");
 #line hidden
-#line 7
+#line 5
  testRunner.And("que o usuário esteja autenticado", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
-#line 8
+#line 6
  testRunner.And("seja feita uma chamado do tipo \'POST\' para o endpoint \'v1/employees\' com o corpo " +
-                        "da requisição", string.Format("\t{{\r\n\t  \"name\": \"{0}\",\r\n\t  \"email\": \"funcionario1@empresa.com\"\r\n\t}}", name), ((TechTalk.SpecFlow.Table)(null)), "E ");
+                        "da requisição", string.Format("\t{{\r\n\t  \"name\": \"{0}\",\r\n\t  \"email\": \"{1}\"\r\n\t}}", name, email), ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
-#line 15
+#line 13
  testRunner.Then("o código de retorno será \'201\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Então ");
 #line hidden
-                TechTalk.SpecFlow.Table table3 = new TechTalk.SpecFlow.Table(new string[] {
-                            "Id",
-                            "Name",
-                            "Email",
-                            "Active"});
-                table3.AddRow(new string[] {
-                            "1",
-                            string.Format("\'{0}\'", name),
-                            "\'funcionario1@empresa.com\'",
-                            "true"});
-#line 16
- testRunner.And("o registro estará disponível na tabela \'Employee\' da base de dados", ((string)(null)), table3, "E ");
+#line 14
+ testRunner.And("com o usuário autenticado, seja feita uma chamado do tipo \'GET\' para o endpoint \'" +
+                        "v1/employees\', seu retorno será", "[{\"id\":1,\"name\":\"Funcionário 1\",\"email\":\"funcionario1@empresa.com\",\"active\":true}" +
+                        "]", ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
             }
             this.ScenarioCleanup();
