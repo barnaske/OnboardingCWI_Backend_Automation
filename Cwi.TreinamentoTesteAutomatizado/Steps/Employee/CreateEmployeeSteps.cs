@@ -1,6 +1,7 @@
 ﻿using Cwi.TreinamentoTesteAutomatizado.Controllers;
 using NUnit.Framework;
 using System.Net;
+using System.Threading.Tasks;
 using TechTalk.SpecFlow;
 
 namespace Cwi.TreinamentoTesteAutomatizado.Steps.Employee
@@ -17,12 +18,21 @@ namespace Cwi.TreinamentoTesteAutomatizado.Steps.Employee
         }
 
         [Given(@"que seja solicitado a criação de um novo funcionário")]
-        public async void GivenQueSejaSolicitadoACriacaoDeUmNovoFuncionario()
+        public async Task GivenQueSejaSolicitadoACriacaoDeUmNovoFuncionario()
         {
-            HttpRequestController.AddJsonBody(new { Name = "Funcionario 4", Email = "funcionario4@empresa.com" });
+            HttpRequestController.AddJsonBody(new { Name = "Funcionario 1", Email = "funcionario1@empresa.com" });
+            
+            await HttpRequestController.SendAsync("v1/employees", "post");
+        }
+
+        [Given(@"que seja solicitado a criação de um novo funcionário sem o preenchimento dos campos obrigatórios")]
+        public async Task GivenQueSejaSolicitadoACriacaoDeUmNovoFuncionarioSemOPreenchimentoDosCamposObrigatorios()
+        {
+            HttpRequestController.AddJsonBody(new { });
 
             await HttpRequestController.SendAsync("v1/employees", "post");
         }
+
 
         [Then(@"o funcionário não será cadastrado")]
         public void ThenOFuncionarioNaoSeraCadastrado()
@@ -38,10 +48,17 @@ namespace Cwi.TreinamentoTesteAutomatizado.Steps.Employee
         }
 
 
-        [Then(@"serã retornado uma mensagem de falha de autenticação")]
+        [Then(@"será retornado uma mensagem de falha de autenticação")]
         public void ThenSeraRetornadoUmaMensagemDeFalhaDeAutenticacao()
         {
             Assert.AreEqual(HttpStatusCode.Unauthorized, HttpRequestController.GetResponseHttpStatusCode());
         }
+
+        [Then(@"será retornado uma mensagem de falha de preenchimento de campos obrigatórios")]
+        public void ThenSeraRetornadoUmaMensagemDeFalhaDePreenchimentoDeCamposObrigatorios()
+        {
+            Assert.AreEqual(HttpStatusCode.BadRequest, HttpRequestController.GetResponseHttpStatusCode());
+        }
+
     }
 }

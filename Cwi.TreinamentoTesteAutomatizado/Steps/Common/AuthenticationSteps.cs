@@ -41,7 +41,7 @@ namespace Cwi.TreinamentoTesteAutomatizado.Steps.Common
 
             var authenticationResponse = await HttpRequestController.GetTypedResponseBody<AuthenticationResponse>();
 
-            HttpRequestController.AddHeader("Authorization", $"Bearer {authenticationResponse.AccessToken}");
+            HttpRequestController.AddHeader("Authorization", $"Bearer { authenticationResponse.AccessToken }");
 
         }
     }

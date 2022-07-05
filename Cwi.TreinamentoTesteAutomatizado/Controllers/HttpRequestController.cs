@@ -10,10 +10,10 @@ namespace Cwi.TreinamentoTesteAutomatizado.Controllers
     public class HttpRequestController
     {
 
-        private IHttpClientFactory HttpClientFactory;
-        private Uri BaseUrl;
+        private readonly IHttpClientFactory HttpClientFactory;
+        private readonly Uri BaseUrl;
         private HttpRequestMessage HttpRequestMessage;
-        private HttpResponseMessage HttpResponseMessage = new HttpResponseMessage();
+        private HttpResponseMessage HttpResponseMessage;
 
         public HttpRequestController(IHttpClientFactory httpClientFactory, string baseUrl)
         {
