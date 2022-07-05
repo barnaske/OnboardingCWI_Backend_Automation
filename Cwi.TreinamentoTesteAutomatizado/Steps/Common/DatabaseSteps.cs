@@ -25,6 +25,7 @@ namespace Cwi.TreinamentoTesteAutomatizado.Steps.Common
         }
 
         [Then(@"o registro estará disponível na tabela '(.*)' da base de dados")]
+        [Then(@"os registros estarão disponíveis na tabela '(.*)' da base de dados")]
         public async Task ThenORegistroEstaraDisponivelNaTabeleDaBaseDeDados(string tableName, Table table)
         {
             var currentItems = await PostgreDatabaseController.SelectFrom(tableName, table);
@@ -36,6 +37,19 @@ namespace Cwi.TreinamentoTesteAutomatizado.Steps.Common
 
             Assert.IsTrue(JToken.DeepEquals(JToken.Parse(actualJsonResponse), JToken.Parse(expectedJsonResponse)), $"Conteúdo atual do retorno \n{actualJsonResponse} diferente do esperado \n{expectedJsonResponse}");
         }
+
+        [Given(@"que o funcionário seja inserido na tabela '(.*)' do DB")]
+        public async Task GivenQueOFuncionarioSejaInseridoNaTabelaDoDB(string tableName, Table table)
+        {
+            await PostgreDatabaseController.InsertInto(tableName, table);
+        }
+
+        [Then(@"não haverá mais o registro com na tabela '(.*)' do DB")]
+        public void ThenNaoHaveraMaisORegistroComNaTabelaDoDB(string tableName, Table table)
+        {
+            throw new PendingStepException();
+        }
+
 
     }
 }

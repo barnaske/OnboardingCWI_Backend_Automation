@@ -61,6 +61,27 @@ namespace Cwi.TreinamentoTesteAutomatizado.Controllers
             return await Connection.QueryAsync(query);
         }
 
+        public async Task InsertInto(string tableName, Table table)
+        {
+            var insertColumns = string.Join(",", GetColumnsToInsert(table));
+
+            var values = string.Join(",",GetValuesToInsert(table));
+
+            var insertQuery = $"INSERT INTO {tableName} ({insertColumns}) VALUES ({values});";
+
+            await Connection.ExecuteAsync(insertQuery);
+        }
+
+        private string[] GetColumnsToInsert(Table table)
+        {
+            return table.Header.ToArray();
+        }
+
+        private string[] GetValuesToInsert(Table table)
+        {
+            return table.Rows.Select(x => string.Join(",",x.Values)).ToArray();
+        }
+
         private string[] GetColumnsForSelect(Table table)
         {
             return table.Header.Select(x => $"{x} AS \"{x}\"").ToArray();

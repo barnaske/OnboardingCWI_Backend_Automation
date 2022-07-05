@@ -14,8 +14,8 @@ Cenário: Criação de funcionário com sucesso
 	"""
 	Então o código de retorno será '201'
 	E o registro estará disponível na tabela 'Employee' da base de dados
-	| Id | Name            | Email                      | Active | 
-	| 1  | '<Name>' | 'funcionario1@empresa.com' | true   | 
+	| Id | Name     | Email                      | Active |
+	| 1  | '<Name>' | 'funcionario1@empresa.com' | true   |
 
 Exemplos:
 	| Name          |
