@@ -35,8 +35,8 @@ namespace Cwi.TreinamentoTesteAutomatizado.Features.Employee
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("pt-BR"), "Features/Employee", "Criar funcionários com steps genéricos", "\tSendo um usuário com as devidas permissões\n\tQuero poder cadastrar um novo funcio" +
-                    "nário", ProgrammingLanguage.CSharp, featureTags);
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("pt-BR"), "Features/Employee", "Criar funcionários com steps genéricos", "\tSendo um usuário com as devidas permissões\r\n\tQuero poder cadastrar um novo funci" +
+                    "onário", ProgrammingLanguage.CSharp, featureTags);
             testRunner.OnFeatureStart(featureInfo);
         }
         
@@ -101,7 +101,7 @@ this.ScenarioInitialize(scenarioInfo);
 #line hidden
 #line 8
  testRunner.And("seja feita uma chamado do tipo \'POST\' para o endpoint \'v1/employees\' com o corpo " +
-                        "da requisição", string.Format("\t{{\n\t  \"name\": \"{0}\",\n\t  \"email\": \"funcionario1@empresa.com\"\n\t}}", name), ((TechTalk.SpecFlow.Table)(null)), "E ");
+                        "da requisição", string.Format("\t{{\r\n\t  \"name\": \"{0}\",\r\n\t  \"email\": \"funcionario1@empresa.com\"\r\n\t}}", name), ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
 #line 15
  testRunner.Then("o código de retorno será \'201\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Então ");

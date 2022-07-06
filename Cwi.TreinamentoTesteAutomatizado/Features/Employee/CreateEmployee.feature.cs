@@ -35,8 +35,8 @@ namespace Cwi.TreinamentoTesteAutomatizado.Features.Employee
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("pt-BR"), "Features/Employee", "Cadastro De Funcionarios Feature", "\tSendo um usuário com as devidas permissões\n\tQuero poder cadastrar um novo funcio" +
-                    "nário", ProgrammingLanguage.CSharp, featureTags);
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("pt-BR"), "Features/Employee", "Cadastro De Funcionarios Feature", "\tSendo um usuário com as devidas permissões\r\n\tQuero poder cadastrar um novo funci" +
+                    "onário", ProgrammingLanguage.CSharp, featureTags);
             testRunner.OnFeatureStart(featureInfo);
         }
         

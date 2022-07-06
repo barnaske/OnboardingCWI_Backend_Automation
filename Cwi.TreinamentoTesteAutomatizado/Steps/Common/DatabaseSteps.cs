@@ -45,12 +45,11 @@ namespace Cwi.TreinamentoTesteAutomatizado.Steps.Common
         }
 
         [Then(@"não haverá mais o registro com na tabela '(.*)' do DB")]
-        public async void ThenNaoHaveraMaisORegistroComNaTabelaDoDB(string tableName, Table table)
+        public void ThenNaoHaveraMaisORegistroComNaTabelaDoDB(string tableName, Table table)
         {
-            var currentItems = await PostgreDatabaseController.SelectFrom(tableName, table);
-
-            Assert.Zero(currentItems.Count(), $"O registro do funcionário ainda se encontra na tabela {tableName}");
+            throw new PendingStepException();
         }
+
 
     }
 }

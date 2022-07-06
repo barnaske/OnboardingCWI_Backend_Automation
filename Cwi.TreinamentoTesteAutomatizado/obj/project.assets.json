@@ -7069,25 +7069,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/augustobarnaske/.nuget/packages/": {}
+    "C:\\Users\\Augusto Rosa CWI\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado.csproj",
+      "projectUniqueName": "C:\\Users\\Augusto Rosa CWI\\Desktop\\Onboarding\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado.csproj",
       "projectName": "Cwi.TreinamentoTesteAutomatizado",
-      "projectPath": "/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado.csproj",
-      "packagesPath": "/Users/augustobarnaske/.nuget/packages/",
-      "outputPath": "/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/",
+      "projectPath": "C:\\Users\\Augusto Rosa CWI\\Desktop\\Onboarding\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado.csproj",
+      "packagesPath": "C:\\Users\\Augusto Rosa CWI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Augusto Rosa CWI\\Desktop\\Onboarding\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/augustobarnaske/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Augusto Rosa CWI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7165,22 +7171,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
