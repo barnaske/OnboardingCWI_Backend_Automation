@@ -201,6 +201,19 @@ this.ScenarioInitialize(scenarioInfo);
 #line 51
  testRunner.And("o código de retorno será \'200\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
+                TechTalk.SpecFlow.Table table6 = new TechTalk.SpecFlow.Table(new string[] {
+                            "Id",
+                            "Name",
+                            "Email",
+                            "Active"});
+                table6.AddRow(new string[] {
+                            "1",
+                            "\'TesteDB\'",
+                            "\'db@teste.com\'",
+                            "true"});
+#line 52
+ testRunner.And("não haverá mais o registro com na tabela \'Employee\' do DB", ((string)(null)), table6, "E ");
+#line hidden
             }
             this.ScenarioCleanup();
         }
