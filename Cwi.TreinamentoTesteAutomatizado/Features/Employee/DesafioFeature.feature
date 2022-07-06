@@ -2,25 +2,24 @@
 
 Cenário: DESAFIO 1 - Criação de funcionários com sucesso e validação da listagem dos mesmo
 	Dado que a base de dados esteja limpa
-	E que o usuário esteja autenticado
-	E seja feita uma chamado do tipo 'POST' para o endpoint 'v1/employees' com o corpo da requisição
+	E que o funcionário seja inserido na tabela 'Employee' do DB 
+	#está em DatabaseSteps
+	| Id | Name      | Email          | Active |
+	| 1  | 'TesteDB' | 'db@teste.com' | true   |
+	#E seja feita uma chamado do tipo 'POST' para o endpoint 'v1/employees' com o corpo da requisição
+	#"""
+	#	{
+	#	  "name": "<Name>",
+	#	  "email": "<Email>"
+	#	}
+	#"""
+	Então com o usuário autenticado, seja feita uma chamado do tipo 'GET' para o endpoint 'v1/employees', seu retorno será
 	"""
-		{
-		  "name": "<Name>",
-		  "email": "<Email>"
-		}
+	[{"id":1,"name":"TesteDB","email":"db@teste.com","active":true}]
 	"""
-	Então o código de retorno será '201'
-	#E os registros foram inseridos na base de dados ## o teste usualmente deve ser independente, nesse caso estou usando dois endpoints para esse teste, logo não é lógico
-	E com o usuário autenticado, seja feita uma chamado do tipo 'GET' para o endpoint 'v1/employees', seu retorno será
-	"""
-	[{"id":1,"name":"Funcionário 1","email":"funcionario1@empresa.com","active":true}]
-	"""
-
-Exemplos:
-	| Name          | Email                    |
-	| Funcionário 1 | funcionario1@empresa.com |
-
+	#implementação já ajustada
+	#E os registros foram inseridos na base de dados #
+	# o teste sempre deve buscar ser independente, nesse caso estou usando dois endpoints para esse teste, logo não é lógico
 
 Cenário: DESAFIO 2 - Exclusão de funcionário com sucesso
 	Dado que o usuário esteja autenticado

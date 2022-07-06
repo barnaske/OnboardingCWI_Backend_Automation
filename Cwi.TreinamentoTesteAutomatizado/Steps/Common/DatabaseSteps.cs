@@ -49,7 +49,7 @@ namespace Cwi.TreinamentoTesteAutomatizado.Steps.Common
         {
             var currentItems = await PostgreDatabaseController.SelectFrom(tableName, table);
 
-            Assert.Zero(currentItems.Count(), $"O registro do funcionário segue presente na tabela {tableName}");
+             Assert.Zero(currentItems.Count(), $"O registro do funcionário segue presente na tabela {tableName}");
         }
     }
 }
