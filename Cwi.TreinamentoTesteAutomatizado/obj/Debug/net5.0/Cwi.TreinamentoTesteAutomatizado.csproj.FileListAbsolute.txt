@@ -1,135 +1,269 @@
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\testhost.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\testhost.exe
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\appsettings.json
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\specflow.json
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\NUnit3.TestAdapter.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\nunit.engine.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\nunit.engine.api.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\nunit.engine.core.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\testcentric.engine.metadata.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.deps.json
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.runtimeconfig.json
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.runtimeconfig.dev.json
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.pdb
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\BoDi.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Dapper.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Dynamitey.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Gherkin.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.Http.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\Npgsql.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\NuGet.Frameworks.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\nunit.framework.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\TechTalk.SpecFlow.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\SpecFlow.Assist.Dynamic.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\SpecFlow.Internal.Json.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\System.Security.Permissions.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\System.Text.Encodings.Web.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\System.Text.Json.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\obj\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.csproj.AssemblyReference.cache
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\obj\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\obj\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.AssemblyInfoInputs.cache
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\obj\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.AssemblyInfo.cs
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\obj\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.csproj.CoreCompileInputs.cache
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\obj\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.csproj.CopyComplete
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\obj\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\obj\Debug\net5.0\refint\Cwi.TreinamentoTesteAutomatizado.dll
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\obj\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.pdb
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\obj\Debug\net5.0\Cwi.TreinamentoTesteAutomatizado.genruntimeconfig.cache
-C:\Users\Augusto Rosa CWI\Desktop\Onboarding\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\Cwi.TreinamentoTesteAutomatizado\obj\Debug\net5.0\ref\Cwi.TreinamentoTesteAutomatizado.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/testhost.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/testhost.exe
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/appsettings.json
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/specflow.json
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/NUnit3.TestAdapter.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/NUnit3.TestAdapter.pdb
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/nunit.engine.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/nunit.engine.api.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/nunit.engine.core.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/testcentric.engine.metadata.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.deps.json
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.runtimeconfig.json
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.runtimeconfig.dev.json
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.pdb
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/BoDi.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Dapper.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Dynamitey.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Gherkin.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Configuration.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Http.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Npgsql.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/NuGet.Frameworks.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/nunit.framework.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/TechTalk.SpecFlow.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/SpecFlow.Assist.Dynamic.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/SpecFlow.Internal.Json.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Security.Permissions.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Text.Encodings.Web.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Text.Json.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.csproj.AssemblyReference.cache
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.AssemblyInfoInputs.cache
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.AssemblyInfo.cs
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.csproj.CoreCompileInputs.cache
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.csproj.CopyComplete
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/refint/Cwi.TreinamentoTesteAutomatizado.dll
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.pdb
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.genruntimeconfig.cache
+C:/Users/Augusto Rosa CWI/Desktop/Onboarding/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/ref/Cwi.TreinamentoTesteAutomatizado.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/appsettings.json
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/specflow.json
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/NUnit3.TestAdapter.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/NUnit3.TestAdapter.pdb
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/nunit.engine.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/nunit.engine.api.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/nunit.engine.core.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/testcentric.engine.metadata.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.deps.json
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.runtimeconfig.json
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.runtimeconfig.dev.json
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.pdb
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/BoDi.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Dapper.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Dynamitey.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Gherkin.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Configuration.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Http.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/testhost.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/Npgsql.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/NuGet.Frameworks.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/nunit.framework.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/TechTalk.SpecFlow.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/SpecFlow.Assist.Dynamic.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/SpecFlow.Internal.Json.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Security.Permissions.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Text.Encodings.Web.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/System.Text.Json.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.csproj.AssemblyReference.cache
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.AssemblyInfoInputs.cache
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.AssemblyInfo.cs
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.csproj.CoreCompileInputs.cache
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.csproj.CopyComplete
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/refint/Cwi.TreinamentoTesteAutomatizado.dll
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.pdb
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/Cwi.TreinamentoTesteAutomatizado.genruntimeconfig.cache
+/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/Debug/net5.0/ref/Cwi.TreinamentoTesteAutomatizado.dll

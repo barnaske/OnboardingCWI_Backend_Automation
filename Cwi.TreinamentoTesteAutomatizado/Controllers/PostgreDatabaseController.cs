@@ -50,6 +50,17 @@ namespace Cwi.TreinamentoTesteAutomatizado.Controllers
             await Connection.ExecuteAsync(query);
         }
 
+        public async Task InsertInto(string tableName, Table table)
+        {
+            var insertColumns = string.Join(",", GetColumnsToInsert(table));
+
+            var values = string.Join(",", GetValuesToInsert(table));
+
+            var insertQuery = $"INSERT INTO {tableName} ({insertColumns}) VALUES ({values});";
+
+            await Connection.ExecuteAsync(insertQuery);
+        }
+
         public async Task<IEnumerable<object>> SelectFrom(string tableName, Table table)
         {
             var selectColumns = string.Join(",",GetColumnsForSelect(table));
@@ -59,17 +70,6 @@ namespace Cwi.TreinamentoTesteAutomatizado.Controllers
             var query = $"SELECT {selectColumns} FROM {tableName} WHERE {filterConditions}";
 
             return await Connection.QueryAsync(query);
-        }
-
-        public async Task InsertInto(string tableName, Table table)
-        {
-            var insertColumns = string.Join(",", GetColumnsToInsert(table));
-
-            var values = string.Join(",",GetValuesToInsert(table));
-
-            var insertQuery = $"INSERT INTO {tableName} ({insertColumns}) VALUES ({values});";
-
-            await Connection.ExecuteAsync(insertQuery);
         }
 
         private string[] GetColumnsToInsert(Table table)

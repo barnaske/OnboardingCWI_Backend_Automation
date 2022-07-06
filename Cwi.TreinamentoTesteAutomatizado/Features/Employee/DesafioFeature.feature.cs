@@ -103,7 +103,7 @@ this.ScenarioInitialize(scenarioInfo);
 #line hidden
 #line 6
  testRunner.And("seja feita uma chamado do tipo \'POST\' para o endpoint \'v1/employees\' com o corpo " +
-                        "da requisição", string.Format("\t{{\r\n\t  \"name\": \"{0}\",\r\n\t  \"email\": \"{1}\"\r\n\t}}", name, email), ((TechTalk.SpecFlow.Table)(null)), "E ");
+                        "da requisição", string.Format("\t{{\n\t  \"name\": \"{0}\",\n\t  \"email\": \"{1}\"\n\t}}", name, email), ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
 #line 13
  testRunner.Then("o código de retorno será \'201\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Então ");
@@ -200,6 +200,19 @@ this.ScenarioInitialize(scenarioInfo);
 #line hidden
 #line 51
  testRunner.And("o código de retorno será \'200\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
+#line hidden
+                TechTalk.SpecFlow.Table table6 = new TechTalk.SpecFlow.Table(new string[] {
+                            "Id",
+                            "Name",
+                            "Email",
+                            "Active"});
+                table6.AddRow(new string[] {
+                            "1",
+                            "\'TesteDB\'",
+                            "\'db@teste.com\'",
+                            "true"});
+#line 52
+ testRunner.And("não haverá mais o registro com na tabela \'Employee\' do DB", ((string)(null)), table6, "E ");
 #line hidden
             }
             this.ScenarioCleanup();
