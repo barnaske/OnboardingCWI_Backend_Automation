@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cfeb316-a430-448d-9529-36de6c657909" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Cwi.TreinamentoTesteAutomatizado/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Cwi.TreinamentoTesteAutomatizado/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BZVQ1FxoE6eGqxLgNr1gln6pKA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cfeb316-a430-448d-9529-36de6c657909" name="Changes" comment="" />
+      <created>1657113575233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657113575233</updated>
+      <workItem from="1657113587358" duration="1145000" />
+      <workItem from="1657196144289" duration="1711000" />
+      <workItem from="1657212282182" duration="442000" />
+      <workItem from="1657232700375" duration="2583000" />
+      <workItem from="1657235498740" duration="2434000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adicionando primeiro cenário do endpoint de companies usando get">
+      <created>1657234461421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657234461421</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;Testando realizar um commit pelo sourcetree da máquina nova, após ter implementado a validação do registro excluído nos últimos steps do desafio do Feiteiro&quot;&#10;&#10;This reverts commit 1f28bd0a">
+      <created>1657234591198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657234591198</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adicionando implementação do step de requisição com x method e x endpoint usando When">
+      <created>1657236959779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657236959779</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Pacotes nuget da main restaurados e adicionando GetCompaniesSteps">
+      <created>1657237307005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657237307005</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adicionando construtor para a classe das companies">
+      <created>1657237664387</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657237664387</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Coommitando arquivos não versionados para conseguir dar checkout e atualizar segunda branch">
+      <created>1657237746737</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657237746737</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="testing-rider-ide" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Adicionando primeiro cenário do endpoint de companies usando get" />
+    <MESSAGE value="Revert &quot;Testando realizar um commit pelo sourcetree da máquina nova, após ter implementado a validação do registro excluído nos últimos steps do desafio do Feiteiro&quot;&#10;&#10;This reverts commit 1f28bd0a" />
+    <MESSAGE value="Adicionando implementação do step de requisição com x method e x endpoint usando When" />
+    <MESSAGE value="Pacotes nuget da main restaurados e adicionando GetCompaniesSteps" />
+    <MESSAGE value="Adicionando construtor para a classe das companies" />
+    <MESSAGE value="Coommitando arquivos não versionados para conseguir dar checkout e atualizar segunda branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coommitando arquivos não versionados para conseguir dar checkout e atualizar segunda branch" />
+  </component>
+</project>

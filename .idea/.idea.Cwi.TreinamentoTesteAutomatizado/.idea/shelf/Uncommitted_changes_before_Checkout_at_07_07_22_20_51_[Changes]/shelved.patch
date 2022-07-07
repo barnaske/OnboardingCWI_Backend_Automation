@@ -1,0 +1,15 @@
+Index: Cwi.TreinamentoTesteAutomatizado/obj/rider.project.restore.info
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>16572349522596225
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Cwi.TreinamentoTesteAutomatizado/obj/rider.project.restore.info b/Cwi.TreinamentoTesteAutomatizado/obj/rider.project.restore.info
+--- a/Cwi.TreinamentoTesteAutomatizado/obj/rider.project.restore.info	(revision aea96d0327df6202c57b8d577316a58b81d54c19)
++++ b/Cwi.TreinamentoTesteAutomatizado/obj/rider.project.restore.info	(date 1657237760735)
+@@ -1,1 +1,1 @@
+-16572349522596225
+\ No newline at end of file
++16572377607338922
+\ No newline at end of file
