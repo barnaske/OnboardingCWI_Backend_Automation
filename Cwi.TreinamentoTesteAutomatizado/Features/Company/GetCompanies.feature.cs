@@ -20,22 +20,22 @@ namespace Cwi.TreinamentoTesteAutomatizado.Features.Company
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "3.9.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [NUnit.Framework.TestFixtureAttribute()]
-    [NUnit.Framework.DescriptionAttribute("Criar empresa")]
-    public partial class CriarEmpresaFeature
+    [NUnit.Framework.DescriptionAttribute("Obter Empresas")]
+    public partial class ObterEmpresasFeature
     {
         
         private TechTalk.SpecFlow.ITestRunner testRunner;
         
         private static string[] featureTags = ((string[])(null));
         
-#line 1 "CreateCompany.feature"
+#line 1 "GetCompanies.feature"
 #line hidden
         
         [NUnit.Framework.OneTimeSetUpAttribute()]
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("pt-BR"), "Features/Company", "Criar empresa", null, ProgrammingLanguage.CSharp, featureTags);
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("pt-BR"), "Features/Company", "Obter Empresas", "\tSimple calculator for adding two numbers", ProgrammingLanguage.CSharp, featureTags);
             testRunner.OnFeatureStart(featureInfo);
         }
         
@@ -74,16 +74,15 @@ namespace Cwi.TreinamentoTesteAutomatizado.Features.Company
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Criação de empresa com sucesso")]
-        [NUnit.Framework.TestCaseAttribute("Empresa 1", "001", null)]
-        public void CriacaoDeEmpresaComSucesso(string name, string code, string[] exampleTags)
+        [NUnit.Framework.DescriptionAttribute("Obter todas as empresas")]
+        [NUnit.Framework.CategoryAttribute("mytag")]
+        public void ObterTodasAsEmpresas()
         {
-            string[] tagsOfScenario = exampleTags;
+            string[] tagsOfScenario = new string[] {
+                    "mytag"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
-            argumentsOfScenario.Add("Name", name);
-            argumentsOfScenario.Add("Code", code);
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Criação de empresa com sucesso", null, tagsOfScenario, argumentsOfScenario, featureTags);
-#line 3
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Obter todas as empresas", null, tagsOfScenario, argumentsOfScenario, featureTags);
+#line 5
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
             if ((TagHelper.ContainsIgnoreTag(tagsOfScenario) || TagHelper.ContainsIgnoreTag(featureTags)))
@@ -93,33 +92,17 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-#line 4
- testRunner.Given("que a base de dados esteja limpa", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dado ");
-#line hidden
-#line 5
- testRunner.And("que o usuário esteja autenticado", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
-#line hidden
 #line 6
- testRunner.And("seja feita uma chamado do tipo \'POST\' para o endpoint \'v1/companies\' com o corpo " +
-                        "da requisição", string.Format("\t{{\n\t  \"name\": \"{0}\",\n\t  \"code\": \"{1}\",\n\t  \"maxEmployeesNumber\": 5\n\t}}", name, code), ((TechTalk.SpecFlow.Table)(null)), "E ");
+ testRunner.Given("nd the second number is 70", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dado ");
 #line hidden
-#line 14
- testRunner.Then("o código de retorno será \'201\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Então ");
+#line 7
+ testRunner.And("teste", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
-                TechTalk.SpecFlow.Table table1 = new TechTalk.SpecFlow.Table(new string[] {
-                            "Id",
-                            "Name",
-                            "Code",
-                            "MaxEmployeesNumber",
-                            "Active"});
-                table1.AddRow(new string[] {
-                            "1",
-                            string.Format("\'{0}\'", name),
-                            string.Format("\'{0}\'", code),
-                            "5",
-                            "true"});
-#line 15
- testRunner.And("o registro estará disponível na tabela \'Company\' da base de dados", ((string)(null)), table1, "E ");
+#line 8
+ testRunner.When("teste", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Quando ");
+#line hidden
+#line 9
+ testRunner.Then("teste", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Então ");
 #line hidden
             }
             this.ScenarioCleanup();

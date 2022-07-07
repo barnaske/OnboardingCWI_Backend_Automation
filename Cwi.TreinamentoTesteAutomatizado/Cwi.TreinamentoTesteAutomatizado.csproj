@@ -37,4 +37,8 @@
     <Folder Include="Features\Company\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <SpecFlowFeatureFiles Remove="Features\Company\Teste.feature" />
+  </ItemGroup>
+
 </Project>
