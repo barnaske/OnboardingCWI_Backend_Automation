@@ -3,8 +3,8 @@ Funcionalidade: Obter Empresas
 
 @Companies
 Cenário: Obter empresas com a base limpa 
-	Dado a base de dados esteja limpa
-	E o usuário esteja autenticado
-	Quando for realizada um requisição com o método 'GET' para o endpoint 'v1/companies'     
+	Dado que a base de dados esteja limpa
+	E que o usuário esteja autenticado 
+	Quando seja realizada um requisição com o método 'GET' para o endpoint 'v1/companies'     
 	Então o código de retorno será '204'
 	

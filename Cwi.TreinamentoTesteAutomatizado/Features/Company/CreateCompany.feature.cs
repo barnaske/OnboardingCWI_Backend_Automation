@@ -101,7 +101,7 @@ this.ScenarioInitialize(scenarioInfo);
 #line hidden
 #line 6
  testRunner.And("seja feita uma chamado do tipo \'POST\' para o endpoint \'v1/companies\' com o corpo " +
-                        "da requisição", string.Format("\t{{\r\n\t  \"name\": \"{0}\",\r\n\t  \"code\": \"{1}\",\r\n\t  \"maxEmployeesNumber\": 5\r\n\t}}", name, code), ((TechTalk.SpecFlow.Table)(null)), "E ");
+                        "da requisição", string.Format("\t{{\n\t  \"name\": \"{0}\",\n\t  \"code\": \"{1}\",\n\t  \"maxEmployeesNumber\": 5\n\t}}", name, code), ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
 #line 14
  testRunner.Then("o código de retorno será \'201\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Então ");

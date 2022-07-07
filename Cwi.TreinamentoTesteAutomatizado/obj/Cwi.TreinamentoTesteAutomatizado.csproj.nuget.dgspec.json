@@ -1,31 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Augusto Rosa CWI\\Desktop\\Onboarding\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado.csproj": {}
+    "/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Augusto Rosa CWI\\Desktop\\Onboarding\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado.csproj": {
+    "/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Augusto Rosa CWI\\Desktop\\Onboarding\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado.csproj",
+        "projectUniqueName": "/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado.csproj",
         "projectName": "Cwi.TreinamentoTesteAutomatizado",
-        "projectPath": "C:\\Users\\Augusto Rosa CWI\\Desktop\\Onboarding\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado.csproj",
-        "packagesPath": "C:\\Users\\Augusto Rosa CWI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Augusto Rosa CWI\\Desktop\\Onboarding\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\Cwi.TreinamentoTesteAutomatizado\\obj\\",
+        "projectPath": "/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/Cwi.TreinamentoTesteAutomatizado.csproj",
+        "packagesPath": "/Users/augustobarnaske/.nuget/packages/",
+        "outputPath": "/Users/augustobarnaske/Desktop/OnboardingCWI_Backend_Automation/Cwi.TreinamentoTesteAutomatizado/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Augusto Rosa CWI\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/augustobarnaske/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -103,12 +98,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }

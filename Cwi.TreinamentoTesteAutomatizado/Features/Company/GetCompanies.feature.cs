@@ -74,14 +74,14 @@ namespace Cwi.TreinamentoTesteAutomatizado.Features.Company
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Obter todas as empresas")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public void ObterTodasAsEmpresas()
+        [NUnit.Framework.DescriptionAttribute("Obter empresas com a base limpa")]
+        [NUnit.Framework.CategoryAttribute("Companies")]
+        public void ObterEmpresasComABaseLimpa()
         {
             string[] tagsOfScenario = new string[] {
-                    "mytag"};
+                    "Companies"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Obter todas as empresas", null, tagsOfScenario, argumentsOfScenario, featureTags);
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Obter empresas com a base limpa", null, tagsOfScenario, argumentsOfScenario, featureTags);
 #line 5
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
@@ -93,16 +93,16 @@ this.ScenarioInitialize(scenarioInfo);
             {
                 this.ScenarioStart();
 #line 6
- testRunner.Given("nd the second number is 70", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dado ");
+ testRunner.Given("a base de dados esteja limpa", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dado ");
 #line hidden
 #line 7
- testRunner.And("teste", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
+ testRunner.And("o usuário esteja autenticado", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
 #line 8
- testRunner.When("teste", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Quando ");
+ testRunner.When("for realizada um requisição com o método \'GET\' para o endpoint \'v1/companies\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Quando ");
 #line hidden
 #line 9
- testRunner.Then("teste", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Então ");
+ testRunner.Then("o código de retorno será \'204\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Então ");
 #line hidden
             }
             this.ScenarioCleanup();
