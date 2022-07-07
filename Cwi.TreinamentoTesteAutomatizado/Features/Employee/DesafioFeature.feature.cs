@@ -76,13 +76,10 @@ namespace Cwi.TreinamentoTesteAutomatizado.Features.Employee
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("DESAFIO 1 - Criação de funcionários com sucesso e validação da listagem dos mesmo" +
             "")]
-        [NUnit.Framework.TestCaseAttribute("Funcionário 1", "funcionario1@empresa.com", null)]
-        public void DESAFIO1_CriacaoDeFuncionariosComSucessoEValidacaoDaListagemDosMesmo(string name, string email, string[] exampleTags)
+        public void DESAFIO1_CriacaoDeFuncionariosComSucessoEValidacaoDaListagemDosMesmo()
         {
-            string[] tagsOfScenario = exampleTags;
+            string[] tagsOfScenario = ((string[])(null));
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
-            argumentsOfScenario.Add("Name", name);
-            argumentsOfScenario.Add("Email", email);
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("DESAFIO 1 - Criação de funcionários com sucesso e validação da listagem dos mesmo" +
                     "", null, tagsOfScenario, argumentsOfScenario, featureTags);
 #line 3
@@ -98,20 +95,22 @@ this.ScenarioInitialize(scenarioInfo);
 #line 4
  testRunner.Given("que a base de dados esteja limpa", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dado ");
 #line hidden
+                TechTalk.SpecFlow.Table table4 = new TechTalk.SpecFlow.Table(new string[] {
+                            "Id",
+                            "Name",
+                            "Email",
+                            "Active"});
+                table4.AddRow(new string[] {
+                            "1",
+                            "\'TesteDB\'",
+                            "\'db@teste.com\'",
+                            "true"});
 #line 5
- testRunner.And("que o usuário esteja autenticado", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
+ testRunner.And("que o funcionário seja inserido na tabela \'Employee\' do DB", ((string)(null)), table4, "E ");
 #line hidden
-#line 6
- testRunner.And("seja feita uma chamado do tipo \'POST\' para o endpoint \'v1/employees\' com o corpo " +
-                        "da requisição", string.Format("\t{{\r\n\t  \"name\": \"{0}\",\r\n\t  \"email\": \"{1}\"\r\n\t}}", name, email), ((TechTalk.SpecFlow.Table)(null)), "E ");
-#line hidden
-#line 13
- testRunner.Then("o código de retorno será \'201\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Então ");
-#line hidden
-#line 15
- testRunner.And("com o usuário autenticado, seja feita uma chamado do tipo \'GET\' para o endpoint \'" +
-                        "v1/employees\', seu retorno será", "[{\"id\":1,\"name\":\"Funcionário 1\",\"email\":\"funcionario1@empresa.com\",\"active\":true}" +
-                        "]", ((TechTalk.SpecFlow.Table)(null)), "E ");
+#line 16
+ testRunner.Then("com o usuário autenticado, seja feita uma chamado do tipo \'GET\' para o endpoint \'" +
+                        "v1/employees\', seu retorno será", "[{\"id\":1,\"name\":\"TesteDB\",\"email\":\"db@teste.com\",\"active\":true}]", ((TechTalk.SpecFlow.Table)(null)), "Então ");
 #line hidden
             }
             this.ScenarioCleanup();
@@ -124,7 +123,7 @@ this.ScenarioInitialize(scenarioInfo);
             string[] tagsOfScenario = ((string[])(null));
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("DESAFIO 2 - Exclusão de funcionário com sucesso", null, tagsOfScenario, argumentsOfScenario, featureTags);
-#line 25
+#line 24
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
             if ((TagHelper.ContainsIgnoreTag(tagsOfScenario) || TagHelper.ContainsIgnoreTag(featureTags)))
@@ -134,25 +133,25 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-#line 26
+#line 25
  testRunner.Given("que o usuário esteja autenticado", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dado ");
 #line hidden
-                TechTalk.SpecFlow.Table table4 = new TechTalk.SpecFlow.Table(new string[] {
+                TechTalk.SpecFlow.Table table5 = new TechTalk.SpecFlow.Table(new string[] {
                             "Name",
                             "Email"});
-                table4.AddRow(new string[] {
+                table5.AddRow(new string[] {
                             "Teste Exclusão",
                             "email@exclusao.com"});
-#line 27
- testRunner.And("que seja solicitado a criação de um novo funcionário", ((string)(null)), table4, "E ");
+#line 26
+ testRunner.And("que seja solicitado a criação de um novo funcionário", ((string)(null)), table5, "E ");
 #line hidden
-#line 30
+#line 29
  testRunner.And("que o usuário esteja autenticado", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
-#line 31
+#line 30
  testRunner.Then("seja feita uma chamada com o método \'DELETE\' para o endpoint \'v1/employees/1\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Então ");
 #line hidden
-#line 32
+#line 31
  testRunner.And("o código de retorno será \'200\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
             }
@@ -166,7 +165,7 @@ this.ScenarioInitialize(scenarioInfo);
             string[] tagsOfScenario = ((string[])(null));
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("DESAFIO FEITEIRO - Inserção e deleção de funcionário via DB", null, tagsOfScenario, argumentsOfScenario, featureTags);
-#line 42
+#line 41
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
             if ((TagHelper.ContainsIgnoreTag(tagsOfScenario) || TagHelper.ContainsIgnoreTag(featureTags)))
@@ -176,30 +175,43 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-#line 43
+#line 42
  testRunner.Given("que a base de dados esteja limpa", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dado ");
 #line hidden
-                TechTalk.SpecFlow.Table table5 = new TechTalk.SpecFlow.Table(new string[] {
+                TechTalk.SpecFlow.Table table6 = new TechTalk.SpecFlow.Table(new string[] {
                             "Id",
                             "Name",
                             "Email",
                             "Active"});
-                table5.AddRow(new string[] {
+                table6.AddRow(new string[] {
                             "1",
                             "\'TesteDB\'",
                             "\'db@teste.com\'",
                             "true"});
-#line 44
- testRunner.And("que o funcionário seja inserido na tabela \'Employee\' do DB", ((string)(null)), table5, "E ");
+#line 43
+ testRunner.And("que o funcionário seja inserido na tabela \'Employee\' do DB", ((string)(null)), table6, "E ");
 #line hidden
-#line 48
+#line 47
  testRunner.And("que o usuário esteja autenticado", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
-#line 49
+#line 48
  testRunner.Then("seja feita uma chamada com o método \'DELETE\' para o endpoint \'v1/employees/1\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Então ");
 #line hidden
-#line 51
+#line 50
  testRunner.And("o código de retorno será \'200\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
+#line hidden
+                TechTalk.SpecFlow.Table table7 = new TechTalk.SpecFlow.Table(new string[] {
+                            "Id",
+                            "Name",
+                            "Email",
+                            "Active"});
+                table7.AddRow(new string[] {
+                            "1",
+                            "\'TesteDB\'",
+                            "\'db@teste.com\'",
+                            "true"});
+#line 51
+ testRunner.And("não haverá mais o registro com na tabela \'Employee\' do DB", ((string)(null)), table7, "E ");
 #line hidden
             }
             this.ScenarioCleanup();
