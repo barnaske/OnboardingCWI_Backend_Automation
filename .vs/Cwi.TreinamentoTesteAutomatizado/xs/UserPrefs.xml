@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{BE649CC6-4B9F-4CE0-B47B-149119C8CDD5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Cwi.TreinamentoTesteAutomatizado PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cwi.TreinamentoTesteAutomatizado/Steps/Common/DatabaseSteps.cs">
+    <Files>
+      <File FileName="Cwi.TreinamentoTesteAutomatizado/Features/Employee/GetAllEmployees.feature.cs" Line="1" Column="1" />
+      <File FileName="Cwi.TreinamentoTesteAutomatizado/Features/Employee/DesafioFeature.feature.cs" Line="1" Column="1" />
+      <File FileName="Cwi.TreinamentoTesteAutomatizado/Steps/Common/DatabaseSteps.cs" Line="53" Column="2" />
+      <File FileName="Cwi.TreinamentoTesteAutomatizado/Steps/Common/HttpRequestSteps.cs" Line="1" Column="1" />
+      <File FileName="Cwi.TreinamentoTesteAutomatizado/Controllers/PostgreDatabaseController.cs" Line="53" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Cwi.TreinamentoTesteAutomatizado" expanded="True">
+            <Node name="Cwi.TreinamentoTesteAutomatizado" expanded="True">
+              <Node name="Features" expanded="True">
+                <Node name="Company" expanded="True" />
+                <Node name="Employee" expanded="True" />
+              </Node>
+              <Node name="Steps" expanded="True">
+                <Node name="Common" expanded="True">
+                  <Node name="DatabaseSteps.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Cwi.TreinamentoTesteAutomatizado" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
