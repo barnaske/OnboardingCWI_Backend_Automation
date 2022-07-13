@@ -7167,10 +7167,6 @@
         "warn": true,
         "downloadDependencies": [
           {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
             "name": "Microsoft.NETCore.App.Ref",
             "version": "[5.0.0, 5.0.0]"
           }

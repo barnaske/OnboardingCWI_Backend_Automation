@@ -93,13 +93,13 @@ this.ScenarioInitialize(scenarioInfo);
             {
                 this.ScenarioStart();
 #line 6
- testRunner.Given("a base de dados esteja limpa", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dado ");
+ testRunner.Given("que a base de dados esteja limpa", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dado ");
 #line hidden
 #line 7
- testRunner.And("o usuário esteja autenticado", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
+ testRunner.And("que o usuário esteja autenticado", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "E ");
 #line hidden
 #line 8
- testRunner.When("for realizada um requisição com o método \'GET\' para o endpoint \'v1/companies\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Quando ");
+ testRunner.When("seja realizada um requisição com o método \'GET\' para o endpoint \'v1/companies\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Quando ");
 #line hidden
 #line 9
  testRunner.Then("o código de retorno será \'204\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Então ");
